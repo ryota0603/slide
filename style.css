@@ -1,0 +1,19 @@
+/*.swiper {*/
+/*  width: 600px;*/
+/*  height: 300px;*/
+/*}*/
+
+/*:root {*/
+/*  --swiper-navigation-color: #ffffff;*/
+/*  --swiper-pagination-color: #ffffff;*/
+/*}*/
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+:root {
+  --swiper-navigation-coler: #ffffff;
+  --swiper-pagination-coler: #ffffff;
+}
